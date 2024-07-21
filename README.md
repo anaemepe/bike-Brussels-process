@@ -14,9 +14,10 @@ However, the most surprising finding is that bike theft consistently takes place
 
 On the data analysis process: I used a jupyter notebbok to analyse Belgium's public criminal records included in the repo and the link. They are a collection of PDF reports ranging from 2013 to 2023, with 2000 as a baseline. I first tried atttempted to use pandas to extract tables from the PDFs but it wasn't an efficient route. So after a reading analysis with the help of the documentation, I manually built a csv table with all the data points related to bike theft. 
 
-I then used pandas to clean the data, analyse events and build subgroups of data points that then feed the charts, maps and illustrations. 
+I then used pandas to clean the data, analyse events and build subgroups of data points that then feed the charts, maps and illustrations.
 
-##Skills, approaches, etc you used, or where you grew the most during the project
+
+## Skills, approaches, etc you used, or where you grew the most during the project
 In this project, I intended to try out scrollama and ai2html. 
 
 I also wanted to analyse public stats with a more informed methodology (eg. using documentation, analysis on pandas) as learnt at the Lede Program. 
@@ -32,8 +33,7 @@ The design part also took some time as I was exploring ways of visualising while
 took a disproportionate amount of time. 
 
 
-
-##Things I tried to do or wanted to do
+## Things I tried to do or wanted to do
 I would have liked to extract tables from PDFs on pandas in less time than extracting them on Google Sheets. 
 
 I timidly attempted to add some animations but quickly understood it was going to take much more time than what I had available. 
