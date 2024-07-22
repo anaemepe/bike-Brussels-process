@@ -24,7 +24,7 @@ I also wanted to analyse public stats with a more informed methodology (eg. usin
 
 Finally, I wanted to further explore creative ways of visualising that are at the service of communicating data. 
 
-My approach was to build on and push the strong aspects of the project (visual scrollytelling) instead of aiming for the same amount of weight in all elements. 
+My approach was to build on and push the strong aspects of the project (visual scrollytelling) instead of aiming for the same weight in all elements. 
 
 I have learnt **a lot** about ai2html and scrollama and have developed a raw methodology. Besides the technical aspect (I've spent quite some time revisiting tutorials and
 solving a few technical bugs, but much less than I anticipated), one unexpected challenge was integrating this particular storytelling structure in my mental process. 
@@ -38,4 +38,7 @@ I would have liked to extract tables from PDFs on pandas in less time than extra
 
 I timidly attempted to add some animations but quickly understood it was going to take much more time than what I had available. 
 
-I'm all good with minimalism, but the visual elements of this project, which is one of the aspects I wanted to explore in this assignment, can be further developed. 
+While the minimalistic style is intentional, the visual elements, one of the aspects I wanted to explore in this assignment, can be further developed. The data analysis 
+also leaves room for further exploration, that could be complemented with the views of authorities and people impacted by bike theft.
+
+All in all, I regard this project as a prototype or a foundation to build upon.
