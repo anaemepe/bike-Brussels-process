@@ -1,5 +1,5 @@
 # Stolen Bikes in Brussels: the process
- This repo contains the main official records and notebooks used for the data analysis of a project on stolen bikes in Brussels over the years. You can find the live html here: <a href="https://anaemepe.github.io/bikes-Brussels-project/">https://anaemepe.github.io/bikes-Brussels-project/</a>
+ This repo contains the main official records and notebooks used for the data analysis of a project on stolen bikes in Brussels over the years. You can find the live html here: <a href="https://anaemepe.github.io/stolen-bikes/">https://anaemepe.github.io/stolen-bikes/</a>
 
  Additional records used on the data collection can be found on the <a href="https://www.police.be/statistiques/fr/criminalite">Belgian Police stats site</a>.
 
